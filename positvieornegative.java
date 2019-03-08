@@ -1,15 +1,12 @@
-
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Ideone
+class positive
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		
-         int a;   
+	 int a;   
          Scanner s= new Scanner(System.in);
          a=s.nextInt();
          
@@ -25,7 +22,6 @@ class Ideone
           {  System.out.println("Positive");
            
           } 
-    
-}
+	}
 	
 }
